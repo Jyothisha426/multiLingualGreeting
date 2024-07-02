@@ -1,0 +1,33 @@
+.button-list-item {
+  height: 30px;
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+.active-language-button {
+  background-color: #db1c48;
+  border: none;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  border-radius: 14px;
+  border: 1px solid #db1c48;
+  font-size: 13px;
+  font-weight: 500;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.language-button {
+  background-color: #ffffff;
+  border: none;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  border-radius: 14px;
+  border: 1px solid #db1c48;
+  font-size: 13px;
+  font-weight: 500;
+  color: #db1c48;
+  font-family: 'Roboto';
+}
